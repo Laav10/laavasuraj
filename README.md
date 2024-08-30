@@ -1,4 +1,5 @@
 # Goal is to learn not memorise 
+![image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVwNGhvc2c4cDNyeWVmZHZzZ21xYjIzbDFkbmluYXd0aGtpZGE4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5t2c78qQfWUVmm0kxL/giphy.webp)
 ### Laavanaya Rajan 2022BCY0038
 #### Saturaday - Github 
 - setup `.ssh` key on github (`docs` or `video`) (dont worry if you dont understand the steps)
